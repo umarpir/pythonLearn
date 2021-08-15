@@ -23,4 +23,6 @@ result = 100/777
 print('the result was{r}' .format(r=result))
 print('the result was{r:6.3}' .format(r=result))
 name = 'jose'
+age = 3
 print(f'his name is {name}')
+print(f'name is {name}. Juan {name}.')
